@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="History"/>
+
+    <item
+        android:id="@+id/nav_places"
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:title="Nearby Place"/>
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_more_horiz_black_24dp"
+        android:title="More"/>
+</menu>
